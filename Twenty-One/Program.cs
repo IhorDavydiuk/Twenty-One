@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Card_game_21
+namespace CardGame21
 {
 
     enum PlayingCard
